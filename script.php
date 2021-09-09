@@ -1,4 +1,7 @@
 <?php
 
 
-echo 'bonjour'
+echo 'bonjour';
+
+echo 'hello';
+
